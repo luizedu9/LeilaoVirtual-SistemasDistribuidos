@@ -14,7 +14,7 @@ Para informações completas sobre a proposta do trabalho, ver Enunciado.pdf e R
 
 # Funcionamento:
 
-O serviço de leilão permite o anúncio de novos itens para serem leiloados, criação de salas de leilão com os usuários interessados em um mesmo item, bem como recebimento dos lances feitos pelos usuários. Um determinado item (cadastrado no sistema por um usuário) pode ser leiloado em apenas uma sala de leilão por vez. Em caso de empate em uma rodada de lances, o leilão do item continua até que haja um maior lance. Após passado algum tempo sem novos lances, o lance de maior valor para um determinado item é considerado como vencedor, passando o item a ser de propriedade do usuário que enviou o lance vencedor. 
+O serviço de leilão permite o anúncio de novos itens para serem leiloados, a criação de salas de leilão com os usuários interessados em um mesmo item, bem como recebimento dos lances feitos pelos usuários. Um determinado item (cadastrado no sistema por um usuário) pode ser leiloado em apenas uma sala de leilão por vez. Em caso de empate em uma rodada de lances, o leilão do item continua até que haja um maior lance. Após passado algum tempo sem novos lances, o lance de maior valor para um determinado item é considerado como vencedor, passando o item a ser de propriedade do usuário que enviou o lance vencedor. 
 
 # Executar : 
 
