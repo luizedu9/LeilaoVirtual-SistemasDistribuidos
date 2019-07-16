@@ -20,6 +20,8 @@ O serviço de leilão permite o anúncio de novos itens para serem leiloados, a 
 
 # Executar : 
 
+Necessario ter instalado Xterm.
+
 Trabalho com o padrão de projeto MVC (Modelo – Visão – Controle):
 
 run_all.sh
