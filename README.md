@@ -2,7 +2,7 @@
 
 Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga Ciência da Computação
 
-Protótipo de um Sistema Distribuído para um leilão eletronico utilizando a biblioteca JGroups. Trabalho para a disciplina de Sistemas Distribuídos.
+Protótipo de um Sistema Distribuído para um leilão eletrônico utilizando a biblioteca JGroups. Trabalho para a disciplina de Sistemas Distribuídos.
 
 Autores: Ana Paula Fernandes de Souza, Luiz Eduardo Pereira.
 
