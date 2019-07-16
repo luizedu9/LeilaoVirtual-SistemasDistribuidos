@@ -8,7 +8,7 @@ Autores: Ana Paula Fernandes de Souza, Luiz Eduardo Pereira.
 
 # Objetivo
 
-Foi projetado um sistema distribuído (SD) que provê um Serviço de Leilão Eletrônico. A infraestrutura do SD foi provida pelo middleware JGroups, com a comunicação (multicast, anycast, unicast) entre os componentes — membros do(s) cluster(s) — realizada através do conector JChannel.
+Foi projetado um sistema distribuído (SD) que provê um Serviço de Leilão Eletrônico. A infraestrutura do SD foi provida pelo middleware JGroups, com a comunicação (multicast, anycast, unicast) entre os membros dos clusters realizada através do conector JChannel.
 
 Para informações completas sobre a proposta do trabalho, ver Enunciado.pdf e Relatório.pdf.
 
