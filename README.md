@@ -6,9 +6,15 @@ Protótipo de um Sistema Distribuído para um leilão virtual utilizando a bibli
 
 Autores: Ana Paula Fernandes de Souza, Luiz Eduardo Pereira.
 
+# Objetivo
+
+Foi projetado um sistema distribuído (SD) que provê um Serviço de Leilão Eletrônico. A infraestrutura do SD foi provida pelo middleware JGroups, com a comunicação (multicast, anycast, unicast) entre os componentes — membros do(s) cluster(s) — realizada através do conector JChannel.
+
+Para informações completas sobre a proposta do trabalho, ver Enunciado.pdf e Relatório.pdf.
+
 # Funcionamento:
 
-O serviço de leilão deverá permitir o anúncio de novos itens para serem leiloados, criação de sala(s) de leilão com os usuários interessados em um mesmo item, bem como receber os lances feitos pelos usuários. Um determinado item (cadastrado no sistema por um usuário) pode ser leiloado em apenas uma sala de leilão por vez. Em caso de empate em uma rodada de lances, o leilão do item deverá continuar até que haja um maior lance. Após passado algum tempo sem novos lances, o lance de maior valor para um determinado item será considerado como vencedor, passando o item a ser de propriedade do usuário que enviou o lance vencedor. Observe que NÃO poderá haver dois vencedores de um mesmo leilão, bem como um mesmo item NÃO poderá ser leiloado "simultaneamente" em dois ou mais leilões.
+O serviço de leilão permite o anúncio de novos itens para serem leiloados, criação de salas de leilão com os usuários interessados em um mesmo item, bem como recebimento dos lances feitos pelos usuários. Um determinado item (cadastrado no sistema por um usuário) pode ser leiloado em apenas uma sala de leilão por vez. Em caso de empate em uma rodada de lances, o leilão do item continua até que haja um maior lance. Após passado algum tempo sem novos lances, o lance de maior valor para um determinado item é considerado como vencedor, passando o item a ser de propriedade do usuário que enviou o lance vencedor. 
 
 # Executar : 
 
