@@ -1,6 +1,8 @@
 # Prototipo-LeilaoVirtual
 
-Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga Ciência da Computação
+Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga
+
+Ciência da Computação
 
 Protótipo de um Sistema Distribuído para um leilão eletrônico utilizando a biblioteca JGroups. Trabalho para a disciplina de Sistemas Distribuídos.
 
